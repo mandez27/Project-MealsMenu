@@ -1,0 +1,4 @@
+com\Meels\app\Main.class
+com\Meels\model\Meal.class
+com\Meels\model\MealCollection.class
+com\Meels\model\SetMeal.class
